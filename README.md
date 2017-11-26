@@ -11,5 +11,6 @@ WDPTest
 	-use "http-server <project folder path>" to start server and hit "localhost:8080"
 	
 #I have developed this project using AngularJS 1, SPA JS framework
+#Application build is responsive and looks good for desktop, tablet and mobile screens.
  
   
