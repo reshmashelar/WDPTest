@@ -1,0 +1,49 @@
+<!-- home.html -->
+<div class="empContainer" >
+	<h3 class="empHeader">Our Employees</h3>
+	<hr />
+	<div class="empdtl" ng-repeat="emp in data.Employees">
+		<div  data-toggle="modal" data-target="#myModal" ng-click="setModalValue(emp.userId)">
+			<div class="allDtls">
+				<img class="profImg" ng-src="/assets/img/{{emp.imgSrc}}"alt="profileImg"/>
+			</div>
+			<div class="textDtls">
+				<h4>{{emp.firstName}}&nbsp;{{emp.lastName}} </h4>
+				{{emp.empShortDesc}}
+			</div>
+		</div>
+	</div>
+
+	<!--modal-->
+	<div id="myModal" class="modal fade myModal" role="dialog">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-body">
+					<button type="button" class="close" data-dismiss="modal">
+						&times;
+					</button>
+					<div class="overflow">
+						<div class="allDtls">
+							<img class="profImg" ng-src="/assets/img/{{modal.imgSrc}}"alt="profileImg"/>
+							<p>
+								{{modal.jobTitle}}
+							</p>
+							<p>
+								{{modal.age}}
+							</p>
+							<p>
+								{{modal.doj}}
+							</p>
+						</div>
+						<div class="textDtls">
+							<h4>{{modal.firstName}}&nbsp;{{modal.lastName}} </h4>
+							{{modal.empLongDesc}}
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--modal-->
+
+</div>

@@ -1,0 +1,71 @@
+{
+	"Employees": [
+		{
+			"userId": "rirani",
+			"jobTitleName": "Developer",
+			"firstName": "Romin",
+			"lastName": "Irani",
+			"empShortDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+			"empLongDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras luctus efficitur risus, eget congue ipsum semper nec. Ut sodales eget diam id tincidunt.",
+			"jobTitle": "Software Eng",
+			"age": "27",
+			"doj": "27Nov2017",
+			"imgSrc": "profImg1.png"
+		}, {
+			"userId": "nirani",
+			"jobTitleName": "Developer",
+			"firstName": "Neil",
+			"lastName": "Irani",
+			"empShortDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+			"empLongDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras luctus efficitur risus, eget congue ipsum semper nec. Ut sodales eget diam id tincidunt.",
+			"jobTitle": "Software Eng",
+			"age": "39",
+			"doj": "26Nov2017",
+			"imgSrc": "profImg2.png"
+		}, {
+			"userId": "thanks",
+			"jobTitleName": "Program Directory",
+			"firstName": "Tom",
+			"lastName": "Hanks",
+			"empShortDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+			"empLongDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras luctus efficitur risus, eget congue ipsum semper nec. Ut sodales eget diam id tincidunt.",
+			"jobTitle": "Software Eng",
+			"age": "29",
+			"doj": "24Nov2017",
+			"imgSrc": "profImg3.png"
+		}, {
+			"userId": "romin",
+			"jobTitleName": "Developer",
+			"firstName": "Romaan",
+			"lastName": "Irani",
+			"empShortDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+			"empLongDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras luctus efficitur risus, eget congue ipsum semper nec. Ut sodales eget diam id tincidunt.",
+			"jobTitle": "Software Eng",
+			"age": "29",
+			"doj": "25Nov2017",
+			"imgSrc": "profImg4.png"
+		}, {
+			"userId": "john",
+			"jobTitleName": "Developer",
+			"firstName": "John",
+			"lastName": "Irani",
+			"empShortDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+			"empLongDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras luctus efficitur risus, eget congue ipsum semper nec. Ut sodales eget diam id tincidunt.",
+			"jobTitle": "Software Eng",
+			"age": "33",
+			"doj": "22Nov2017",
+			"imgSrc": "profImg5.png"
+		}, {
+			"userId": "chandler",
+			"jobTitleName": "Program Directory",
+			"firstName": "Chandler",
+			"lastName": "Hanks",
+			"empShortDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+			"empLongDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras luctus efficitur risus, eget congue ipsum semper nec. Ut sodales eget diam id tincidunt.",
+			"jobTitle": "Software Eng",
+			"age": "31",
+			"doj": "25Nov2017",
+			"imgSrc": "profImg6.png"
+		}
+	]
+}

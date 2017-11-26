@@ -1,0 +1,83 @@
+* {
+	font-size: 13px;
+}
+.navbar-nav {
+	margin: 0;
+}
+.navbar-nav span {
+	color: #777;
+	line-height: 20px;
+	display: block;
+	line-height: 20px;
+	display: block;
+	padding: 10px 15px;
+}
+.empHeader {
+	font-size: 16px;
+	color: #777;
+}
+.container {
+	width: 100%;
+	padding: 0;
+}
+
+.overflow {
+	overflow: hidden;
+}
+.empContainer {
+	overflow: hidden;
+	width: 100%;
+	padding: 15px;
+}
+.empdtl {
+	width: 30%;
+	min-width: 300px !important;
+	float: left;
+	border: 1px gray solid;
+	margin: 10px 35px 10px 0;
+}
+.empdtl > div {
+	overflow: hidden;
+}
+
+.myModal .modal-content {
+	border-radius: 0;
+}
+.profImg {
+	width: 100%;
+}
+.allDtls {
+	float: left;
+	width: 30%;
+	border-right: 1px gray solid;
+}
+.textDtls {
+	float: right;
+	width: 68%;
+}
+
+.modal .allDtls {
+	float: left;
+	width: 20%;
+	border: 0;
+}
+.modal .textDtls {
+	float: right;
+	width: 78%;
+}
+.modal .profImg {
+	border: 1px gray solid;
+}
+.modal .textDtls h3 {
+	text-decoration: underline;
+}
+.modal .allDtls p {
+	margin: 5px 0;
+}
+
+@media (min-width: 768px) {
+	.navbar-nav span {
+		padding-top: 15px;
+		padding-bottom: 15px;
+	}
+}
