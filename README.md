@@ -9,5 +9,7 @@ WDPTest
     5. See below for npm tasks to build and serve the project
 	
 	-use "http-server <project folder path>" to start server and hit "localhost:8080"
-  # I have developed this project using AngularJS 1, SPA JS framework.
+	
+#I have developed this project using AngularJS 1, SPA JS framework
+ 
   
